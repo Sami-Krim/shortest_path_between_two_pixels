@@ -1,4 +1,4 @@
-# Graphs and Image Scenario 2: Dijkstra and Modeling
+# Shortest path between two pixels
 
 This project involves working with a specific graph structure known as an image grid. Pixels within an image can be seen as vertices of a graph, and the neighbor relationship represents binary edge connections. These edges can be weighted by the intensity difference between adjacent pixels.
 
